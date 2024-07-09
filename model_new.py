@@ -12,7 +12,7 @@ random.seed(1000)
 
 model = AbstractModel()
 
-divided = 50
+divided = 1
 
 ### PARAMS AND SETS
 # Number of observations
