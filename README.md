@@ -16,5 +16,3 @@ and IPOPT 3.12.13 solvers.
 
 	* 'retrieving_ipopt_neq.py': run Algorithm 1 over the results obtained with IPOPT 3.12.13
          solver.
-         
-	* 'run_all_initialsolutionipopt.py'
