@@ -1,5 +1,5 @@
-Repository Risk.Scores contains the code for the approach proposed by C. Molero-Río 
-and C. D'Ambrosio in "Optimal risk scores for continuous predictors" to be appear
+Repository Risk-Scores contains the code for the approach proposed by C. Molero-Río 
+and C. D'Ambrosio in "Optimal risk scores for continuous predictors" to be appeared
 in Lecture Notes of Computer Science as part of the proceedings of LOD conference.
 
 All the files in this repository can be run in Python 3.11, and require BONMIN 1.8.9 
